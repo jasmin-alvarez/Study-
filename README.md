@@ -214,3 +214,35 @@ https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF
 - Chapter 13: Design A Search Autocomplete System
 - Chapter 14: Design Youtube
 - Chapter 15: Design Google Drive
+
+-Special-Problems
+Special Order /BIG FANG ORDER 
+
+Valid Palindrome
+Valid Palindrome II
+Kth Largest Element in an Array
+Serialize and Deserialize Binary Tree
+Add Binary
+Given read4 ii call multiple times
+Decode String
+Shortest Path in a Grid with Obstacles Elimination
+K Closest Points to Origin
+Dot Product of Two Sparse Vector
+Sparse Matrix Multiplication
+Divide Two Integers
+LRU Cache
+Monotonic Array
+Candy Crush
+Letter Combinations of a Phone Number
+asteroid-collision
+time-based-key-value-store
+friend-circles
+valid-parentheses
+product-of-array-except-self
+string-compression
+design-hit-counter
+logger-rate-limiter
+number-of-distinct-islands
+design-hashmap
+Game of Life
+Basic Calculator II
