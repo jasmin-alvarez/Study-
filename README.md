@@ -5,12 +5,12 @@ The purpose of this repo is twofold: one, to give you a single canonical listing
 # Algorithms
 # Module 1
 
-# Grokking the Coding Interview Patterns
+# Grokking the Coding Interview Patterns. 
 
 https://www.educative.io/courses/grokking-the-coding-interview 
 
 
-### Pattern: Sliding Window (11) Required
+### Pattern: Sliding Window (11) Required.  ... LC = Leet Code probolem 
 
 - Maximum Sum Subarray of Size K (easy): new (​link​)
 - Smallest Subarray with a given sum (easy): LC 209
